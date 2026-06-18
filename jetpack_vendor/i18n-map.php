@@ -10,7 +10,7 @@ return array(
     ),
     'jetpack-agents-manager' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-agents-manager',
-      'ver' => '0.5.1-alpha1781711227',
+      'ver' => '0.5.1-alpha1781804518',
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '8.7.1-alpha1781711227',
+      'ver' => '8.7.1-alpha1781804518',
     ),
   ),
 );
