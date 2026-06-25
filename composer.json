@@ -8,6 +8,7 @@
 		"automattic/jetpack-autoloader": "^5.0.20",
 		"automattic/jetpack-composer-plugin": "^4.0.8"
 	},
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
