@@ -4,8 +4,8 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-agents-manager": "^0.8.1-alpha",
-		"automattic/jetpack-autoloader": "^5.0.21-alpha",
+		"automattic/jetpack-agents-manager": "^0.8.2-alpha",
+		"automattic/jetpack-autoloader": "^5.0.21",
 		"automattic/jetpack-composer-plugin": "^4.0.8"
 	},
 	"minimum-stability": "dev",
