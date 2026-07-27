@@ -6,7 +6,7 @@
 	"require": {
 		"automattic/jetpack-agents-manager": "^0.8.4-alpha",
 		"automattic/jetpack-autoloader": "^5.0.21",
-		"automattic/jetpack-composer-plugin": "^4.0.8"
+		"automattic/jetpack-composer-plugin": "^4.0.9-alpha"
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,

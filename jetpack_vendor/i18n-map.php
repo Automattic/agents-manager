@@ -14,7 +14,7 @@ return array(
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.4.8',
+      'ver' => '4.4.9-alpha1785192310',
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
@@ -24,5 +24,7 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
       'ver' => '0.5.0',
     ),
+  ),
+  'paths' => array(
   ),
 );
