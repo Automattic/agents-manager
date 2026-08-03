@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-agents-manager' => array(
-            'pretty_version' => '0.8.5-alpha.1785501371',
-            'version' => '0.8.5.0-alpha1785501371',
-            'reference' => '8151e20c74dffbb529b9c4e969592258945e86c2',
+            'pretty_version' => '0.9.0-alpha.1785761436',
+            'version' => '0.9.0.0-alpha1785761436',
+            'reference' => '535984dfd4857f6784873d100bd2d34271d4515d',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-agents-manager',
             'aliases' => array(),
