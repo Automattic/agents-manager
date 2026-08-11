@@ -40,7 +40,7 @@
         'automattic/jetpack-agents-manager' => array(
             'pretty_version' => '0.9.2',
             'version' => '0.9.2.0',
-            'reference' => '1c55853bc3cf12af6b504f66d54b088e52cb6f4f',
+            'reference' => 'ee7cd76c60a284b9243c9f636c923a3fe9c8c2b3',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-agents-manager',
             'aliases' => array(),
@@ -74,9 +74,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-connection' => array(
-            'pretty_version' => '8.9.0',
-            'version' => '8.9.0.0',
-            'reference' => '64c086afd718a1ecdc032b0da5a2f832dda9c1d5',
+            'pretty_version' => '8.10.0-alpha.1786418034',
+            'version' => '8.10.0.0-alpha1786418034',
+            'reference' => 'ade0986c9815ed584f6799f86d950a9320fbf40b',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-connection',
             'aliases' => array(),
