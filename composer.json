@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-agents-manager": "^0.9.3",
-		"automattic/jetpack-autoloader": "^5.0.23-alpha",
+		"automattic/jetpack-autoloader": "^5.0.23",
 		"automattic/jetpack-composer-plugin": "^4.0.9"
 	},
 	"minimum-stability": "dev",
