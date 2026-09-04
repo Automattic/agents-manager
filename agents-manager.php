@@ -4,7 +4,7 @@
  * Plugin Name: Jetpack Agents Manager
  * Plugin URI: https://jetpack.com/
  * Description: Standalone plugin that loads the Jetpack Agents Manager package.
- * Version: 0.1.3-alpha
+ * Version: 0.2.0-alpha
  * Author: Automattic
  * Author URI: https://jetpack.com/
  * License: GPLv2 or later
