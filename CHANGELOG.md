@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Name the admin bar's AI chat button “Agent”, render an “Agent” label beside its icon while the chat is hidden, and rename its `meta.icon` key from `ask-ai` to `sparkle`.
 - Update dependencies.
 
+### Fixed
+- Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
+
 ## [0.1.2] - 2026-06-25
 ### Changed
 - Update dependencies. [#49612]
