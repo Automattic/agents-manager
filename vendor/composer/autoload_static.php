@@ -89,6 +89,7 @@ class ComposerStaticInita0c8b4b8a21285954dcfaae4c85e8ab2_agents_managerⓥ0_2_0_
         'Automattic\\Jetpack\\Constants' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-constants/src/class-constants.php',
         'Automattic\\Jetpack\\CookieState' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-cookiestate.php',
         'Automattic\\Jetpack\\Errors' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-errors.php',
+        'Automattic\\Jetpack\\Feature_Policy' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-feature-policy.php',
         'Automattic\\Jetpack\\Files' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-files.php',
         'Automattic\\Jetpack\\Heartbeat' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php',
         'Automattic\\Jetpack\\IP\\Utils' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-ip/src/class-utils.php',
