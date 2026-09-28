@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.1-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## [0.2.0] - 2026-09-23
 ### Changed
 - Make the help and Ask AI admin bar nodes available from the admin-bar REST endpoints, with the label, icon and destination a client needs. [#51657]
@@ -22,5 +26,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial version: standalone plugin that loads the Jetpack Agents Manager package.
 
+[0.2.1-alpha]: https://github.com/Automattic/agents-manager/compare/v0.2.0...v0.2.1-alpha
 [0.2.0]: https://github.com/Automattic/agents-manager/compare/v0.1.2...v0.2.0
 [0.1.2]: https://github.com/Automattic/agents-manager/compare/v0.1.0...v0.1.2
