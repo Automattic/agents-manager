@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Connection: Translate the Connectors card's text on sites that don't use English.
+
 ## [0.2.0] - 2026-09-23
 ### Changed
 - Make the help and Ask AI admin bar nodes available from the admin-bar REST endpoints, with the label, icon and destination a client needs. [#51657]
