@@ -5,9 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.2.1-alpha] - unreleased
+## [0.3.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
+
+### Added
+- Connection: Transfer connection ownership to another connected administrator from the Connectors page.
 
 ### Fixed
 - Connection: Translate the Connectors card's text on sites that don't use English.
@@ -29,6 +32,6 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Initial version: standalone plugin that loads the Jetpack Agents Manager package.
 
-[0.2.1-alpha]: https://github.com/Automattic/agents-manager/compare/v0.2.0...v0.2.1-alpha
+[0.3.0-alpha]: https://github.com/Automattic/agents-manager/compare/v0.2.0...v0.3.0-alpha
 [0.2.0]: https://github.com/Automattic/agents-manager/compare/v0.1.2...v0.2.0
 [0.1.2]: https://github.com/Automattic/agents-manager/compare/v0.1.0...v0.1.2
