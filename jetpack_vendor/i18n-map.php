@@ -6,23 +6,23 @@ return array(
   'packages' => array(
     'jetpack-admin-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-admin-ui',
-      'ver' => '0.14.7',
+      'ver' => '0.14.8-alpha1792502969',
     ),
     'jetpack-agents-manager' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-agents-manager',
-      'ver' => '0.12.7',
+      'ver' => '0.12.8-alpha1792502969',
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '5.0.13',
+      'ver' => '5.0.14-alpha1792502969',
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '9.12.1',
+      'ver' => '9.12.2-alpha1792502969',
     ),
     'jetpack-ip' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
-      'ver' => '0.7.0',
+      'ver' => '0.7.1-alpha1792502969',
     ),
   ),
   'paths' => array(
