@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Show connection errors on the Connectors card, and keep showing the connection owner when their account connection breaks.
 - Connection: Transfer connection ownership to another connected administrator from the Connectors page.
 
+### Changed
+- Connection: Show a clear message when connecting the site to WordPress.com from the Connectors card fails, instead of WordPress.com's raw error text.
+
 ### Fixed
 - Connection: Translate the Connectors card's text on sites that don't use English.
 
