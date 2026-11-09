@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Connection: Show a clear message when connecting the site to WordPress.com from the Connectors card fails, instead of WordPress.com's raw error text.
+- Update package dependencies.
 
 ### Fixed
 - Connection: Translate the Connectors card's text on sites that don't use English.
