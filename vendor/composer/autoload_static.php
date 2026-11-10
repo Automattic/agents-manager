@@ -28,6 +28,7 @@ class ComposerStaticInita0c8b4b8a21285954dcfaae4c85e8ab2_agents_managerⓥ0_3_0_
     public static $classMap = array (
         'Automattic\\Jetpack\\A8c_Mc_Stats' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php',
         'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php',
+        'Automattic\\Jetpack\\Admin_UI\\Admin_Shell' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-shell.php',
         'Automattic\\Jetpack\\Agents_Manager\\Agents_Manager' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-agents-manager/src/class-agents-manager.php',
         'Automattic\\Jetpack\\Agents_Manager\\Open_State_Store' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-agents-manager/src/class-open-state-store.php',
         'Automattic\\Jetpack\\Agents_Manager\\Sidebar_Open_Preservation' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-agents-manager/src/class-sidebar-open-preservation.php',
@@ -91,6 +92,7 @@ class ComposerStaticInita0c8b4b8a21285954dcfaae4c85e8ab2_agents_managerⓥ0_3_0_
         'Automattic\\Jetpack\\Constants' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-constants/src/class-constants.php',
         'Automattic\\Jetpack\\CookieState' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-cookiestate.php',
         'Automattic\\Jetpack\\Errors' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-errors.php',
+        'Automattic\\Jetpack\\Feature_Flags\\Feature_Flags' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-feature-flags/src/class-feature-flags.php',
         'Automattic\\Jetpack\\Feature_Policy' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-feature-policy.php',
         'Automattic\\Jetpack\\Files' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-files.php',
         'Automattic\\Jetpack\\Heartbeat' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php',
