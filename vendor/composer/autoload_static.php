@@ -30,6 +30,7 @@ class ComposerStaticInita0c8b4b8a21285954dcfaae4c85e8ab2_agents_managerⓥ0_3_0_
         'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php',
         'Automattic\\Jetpack\\Admin_UI\\Admin_Shell' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-shell.php',
         'Automattic\\Jetpack\\Admin_UI\\Media_Library' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-media-library.php',
+        'Automattic\\Jetpack\\Admin_UI\\Page_Handles' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-page-handles.php',
         'Automattic\\Jetpack\\Agents_Manager\\Agents_Manager' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-agents-manager/src/class-agents-manager.php',
         'Automattic\\Jetpack\\Agents_Manager\\Open_State_Store' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-agents-manager/src/class-open-state-store.php',
         'Automattic\\Jetpack\\Agents_Manager\\Sidebar_Open_Preservation' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-agents-manager/src/class-sidebar-open-preservation.php',
